@@ -44,6 +44,5 @@ int main() {
     create(A,len);
     Display(first);
     
-    
     return 0;
 }
